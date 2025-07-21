@@ -1,8 +1,10 @@
 <h1 align="center">Hellooo!! ⸜(｡˃ ᵕ ˂ )⸝♡ My name is Barra Putra >:3</h1>
 <h3 align="center">A self-proclaimed web developer (mostly backend stuff). Currently learning CodeIgniter4 without setting my laptop on fire💔 Please don’t judge my empty profile, I swear I’m working on stuff (probably) (╥﹏╥)</h3>
 
+<br>
+
 <div align="center">
-[  <img src="https://media1.tenor.com/m/DureO11zKU0AAAAd/momoi-momoi-saiba.gif" width="300">
+  <img src="https://media1.tenor.com/m/DureO11zKU0AAAAd/momoi-momoi-saiba.gif" width="300">
   <h3 align="center">Don't wander too far, you'll get bored fast with how empty my profile is!</h3>
 </div>
 
