@@ -4,13 +4,6 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/DureO11zKU0AAAAC/momoi-momoi-saiba.gif" alt="Momoi dancing" width="300" />
   <h3 align="center">Don't wander too far, you'll get bored fast with how empty my profile is!</h3>
-  <h3 align="center">∩――――∩
-||     ∧ ﾍ　 ||
-||    (* ´ ｰ`) ZZzz
-|ﾉ^⌒⌒づ`￣  ＼
-(　ノ　　⌒ ヽ ＼
-＼　　||￣￣￣￣￣||
-　 ＼,ﾉ||</h3>
 </div>
 
 
