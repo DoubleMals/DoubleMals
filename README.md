@@ -20,31 +20,6 @@
 
 
 
-  <img src="https://quickchart.io/chart?c={
-    type:'pie',
-    data:{
-      labels:['Jupyter Notebook','Dart','CMake','C++','HTML','Swift'],
-      datasets:[{
-        data:[33.06,27.58,20.96,9.73,4.80,3.87],
-        backgroundColor:[
-          '#DA5B0B',
-          '#02569B',
-          '#F34B7D',
-          '#00599C',
-          '#e34c26',
-          '#F05138'
-        ]
-      }]
-    },
-    options:{
-      plugins:{
-        legend:{position:'bottom'},
-        title:{
-          display:true,
-          text:'Most Used Languages'
-        }
-      }
-    }
-  }" alt="Most Used Languages Pie Chart" width="400" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=doublemals&show_icons=true&locale=en&layout=compact" alt="doublemals" />
 </div>
 
