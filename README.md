@@ -1,8 +1,6 @@
 <h1 align="center">Hellooo!! ⸜(｡˃ ᵕ ˂ )⸝♡ My name is Barra Putra >:3</h1>
 <h3 align="center">A self-proclaimed web developer (mostly backend stuff). Currently learning CodeIgniter4 without setting my laptop on fire💔 Please don’t judge my empty profile, I swear I’m working on stuff (probably) (╥﹏╥)</h3>
 
-- 🌱 I’m currently learning **CodeIgniter4**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/barraputra45/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/barraputra45/" height="30" width="40" /></a>
@@ -14,6 +12,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doublemals&show_icons=true&locale=en&layout=compact" alt="doublemals" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doublemals&show_icons=true&locale=en" alt="doublemals" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doublemals&" alt="doublemals" /></p>
