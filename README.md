@@ -5,7 +5,7 @@
 <div align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/barraputra45/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/barraputra45/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/malsmals27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/malsmals27" height="30" width="40" /></a>
-<a href="mailto:barraputra45@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Gmail_white.svg" alt="Email" height="30" width="40" /></a>
+<a href="mailto:barraputra45@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="Email" height="30" width="40" /></a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
