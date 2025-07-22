@@ -1,4 +1,4 @@
-<h1 align="center">Hellooo!! ⸜(｡˃ ᵕ ˂ )⸝♡ My name is Barra Putra >:3</h1>
+<h1 align="center">Hellooo!! ⸜(｡˃ ᵕ ˂ )⸝♡ <br> My name is Barra Putra >:3</h1>
 <h3 align="center">A self-proclaimed web developer (mostly backend stuff). Currently learning CodeIgniter4 without setting my laptop on fire💔 Please don’t judge my empty profile, I swear I’m working on stuff (probably) (╥﹏╥)</h3>
 
 <br>
