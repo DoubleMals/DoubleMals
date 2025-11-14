@@ -77,6 +77,9 @@
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
     </a>
+    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+    </a>
   </p>
 
   <h3 align="center">Connect with me:</h3>
@@ -95,7 +98,7 @@
   <img align="center" src="./things/profile.png" width="auto" style="margin-bottom:1.5rem;" />
 
   <hr>
-  
+
   <img align="center" src="./things/mangnapa.gif" width="500" />
   <p align="center">
     "Emang kenapa cok? Emang kenapa hah?! Emang kenapa kalo Blue Archive?! Emang semua player Blue Archive itu udah pasti pedofil,
