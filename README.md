@@ -93,7 +93,7 @@
 
   <h3 align="center">Also check out my Blue Archive account:</h3>
 
-  <img align="center" src="./things/profile.png" height="200" width="auto" />
+  <img align="center" src="./things/profile.png" wdith="500" width="auto" />
   </br>
   <p>
     "Emang kenapa cok? Emang kenapa hah?! Emang kenapa kalo Blue Archive?! Emang semua player Blue Archive itu udah pasti pedofil,
