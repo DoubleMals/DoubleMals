@@ -94,7 +94,7 @@
   <h3 align="center">Also check out my Blue Archive account:</h3>
   <img align="center" src="./things/profile.png" width="auto" style="margin-bottom:1.5rem;" />
 
-  <p>
+  <p align="center">
     "Emang kenapa cok? Emang kenapa hah?! Emang kenapa kalo Blue Archive?! Emang semua player Blue Archive itu udah pasti pedofil,
     hah?! Nggak cok! Gak ada player Blue Archive yang pedofil! Ada player Blue Archive menjadi guru teladan inspiratif, gitu! Kau masih ngekomenin ngetik-ngetik orang doang gitu kan, gara-gara dia main Blue Archive!"
   </p>
