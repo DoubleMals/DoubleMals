@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  A self-proclaimed web developer (mostly backend stuff). Currently learning CodeIgniter4
+  A self-proclaimed web developer (mostly backend stuff). Currently learning Docker
   without setting my laptop on fire💔 Please don’t judge my empty profile, I swear I’m
   working on stuff (probably) (╥﹏╥)
 </h3>
@@ -77,6 +77,7 @@
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
     </a>
+
   </p>
 
   <h3 align="center">Connect with me:</h3>
@@ -90,6 +91,4 @@
   <a href="mailto:barraputra45@gmail.com" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="Email" height="30" width="40" />
   </a>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=doublemals&show_icons=true&locale=en&layout=compact" alt="doublemals" />
 </div>
