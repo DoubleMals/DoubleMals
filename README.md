@@ -39,7 +39,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
     </a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.logo.wine/a/logo/Laravel/Laravel-Logo.wine.svg" alt="laravel" width="60" height="60"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1154px-Laravel.svg.png" alt="laravel" width="60" height="60"/>
     </a>
     <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="60" height="60"/>
