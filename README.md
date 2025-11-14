@@ -92,7 +92,7 @@
   </a>
 
   <h3 align="center">Also check out my Blue Archive account:</h3>
-  <img align="center" src="./things/profile.png" wdith="500" width="auto" />
+  <img align="center" src="./things/profile.png" width="500" width="auto" />
 
   <br>
 
