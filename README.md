@@ -41,6 +41,8 @@
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="outline:none;text-decoration:none;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60" style="border:0;outline:none;"/></a>
     <a href="https://symfony.com" target="_blank" rel="noreferrer" style="outline:none;text-decoration:none;"><img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="60" height="60" style="border:0;outline:none;"/></a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="outline:none;text-decoration:none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="60" height="60" style="border:0;outline:none;"/></a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="outline:none;text-decoration:none;"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="vuejs" width="60" height="60" style="border:0;outline:none;"/></a>
+    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer" style="outline:none;text-decoration:none;"><img src="    https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" alt="vuejs" width="60" height="60" style="border:0;outline:none;"/></a>
   </p>
 
   <h3 align="center">Connect with me:</h3>
