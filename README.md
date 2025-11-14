@@ -77,7 +77,6 @@
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
     </a>
-
   </p>
 
   <h3 align="center">Connect with me:</h3>
@@ -91,4 +90,16 @@
   <a href="mailto:barraputra45@gmail.com" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" alt="Email" height="30" width="40" />
   </a>
+
+  <h3 align="center">Also check out my Blue Archive account:</h3>
+
+  <img align="center" src="./things/profile.png" height="200" width="auto" />
+  </br>
+  <p>
+    "Emang kenapa cok? Emang kenapa hah?! Emang kenapa kalo Blue Archive?! Emang semua player Blue Archive itu udah pasti pedofil,
+    hah?! Nggak cok! Gak ada player Blue Archive yang pedofil! Ada player Blue Archive menjadi guru teladan inspiratif, gitu! Kau masih ngekomenin ngetik-ngetik orang doang gitu kan, gara-gara dia main Blue Archive!"
+  </p>
+  </br>
+  <img align="center" src="./things/mangnapa.gif" width="500" />
+
 </div>
