@@ -58,8 +58,7 @@
 
   <img align="center" src="./things/mangnapa.gif" width="500" style="border:0;outline:none;"/>
   <p align="center">
-    "Emang kenapa cok? Emang kenapa hah?! Emang kenapa kalo Blue Archive?! Emang semua player Blue Archive itu udah pasti pedofil,
-    hah?! Nggak cok! Gak ada player Blue Archive yang pedofil! Ada player Blue Archive menjadi guru teladan inspiratif, gitu! Kau masih ngekomenin ngetik-ngetik orang doang gitu kan, gara-gara dia main Blue Archive!"
+    "Emang kenapa hah?! Emang kenapa kalo Blue Archive?!"
   </p>
 
 </div>
